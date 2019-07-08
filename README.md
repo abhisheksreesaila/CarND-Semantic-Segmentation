@@ -26,5 +26,5 @@ The neural network is contained in the jupyter notebook file `Semantic Segmentat
 ![sample4.png](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/sample4.png)
 ![sample5.png](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/sample5.png)
 
-[![Inference on a driving Video](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/VideoSample.PNG)](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/result.mp4 "CarND-Semantic-Segmentation")
+[![Link to inference on a driving video](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/VideoSample.PNG)](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/result.mp4)
 
