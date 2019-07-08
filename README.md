@@ -20,5 +20,10 @@ The neural network is contained in the jupyter notebook file `Semantic Segmentat
 ![Semantic-Segmentation-Model](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/FCN-8%20Network.png)
 
 #### Inference Samples
+![sample1.png](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/sample1.png)
+![sample2.png](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/sample2.png)
+![sample3.png](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/sample3.png)
+![sample4.png](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/sample4.png)
+![sample5.png](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/sample5.png)
 
 
