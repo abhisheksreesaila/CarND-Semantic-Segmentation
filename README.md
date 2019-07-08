@@ -17,7 +17,7 @@ Download the [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road
 
 #### Model
 The neural network is contained in the jupyter notebook file `Semantic Segmentation.ipynb`. It is based on Encoder-Decoder architecture which is commonly used in the Semantic Segmentation tasks. VGG-16 is used for encoder and we use techniques such as Deconvolutions, 1x1 Convolutions and SKip connection on the decoder side to classify each pixes in the image as "Road" or "No Road". See below for network visuals. 
-
+![Semantic-Segmentation-Model](https://github.com/abhisheksreesaila/CarND-Semantic-Segmentation/raw/master/FCN-8%20Network.png)
 
 #### Inference Samples
 
